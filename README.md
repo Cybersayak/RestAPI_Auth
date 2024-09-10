@@ -1,6 +1,6 @@
-# Node.js Express TypeScript template
+# Node.js Express TypeScript REST API
 
-This is a Node.js Express TypeScript MongoDB project with an HTTP server along with Integration of Authentication.
+This is a Node.js Express TypeScript MongoDB REST API along with Integration of Authentication.
 
 Add your [configuration](https://codesandbox.io/docs/projects/learn/setting-up/tasks) to optimize it for [CodeSandbox](https://codesandbox.io).
 
