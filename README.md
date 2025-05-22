@@ -1,4 +1,4 @@
-# Node.js Express TypeScript REST API
+# REST API with Authentication
 
 This is a Node.js Express TypeScript MongoDB REST API along with Integration of Authentication.
 
